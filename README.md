@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 
+<a align="center"><img src="https://i.ibb.co/ZBKKWJw/banner-git-hever.png" alt="banner-git-hever" border="0"></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hever-gdesing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hever-gdesing/" height="30" width="40" /></a>
