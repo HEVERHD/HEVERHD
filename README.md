@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 
-<a align="center"><img src="https://i.ibb.co/ZBKKWJw/banner-git-hever.png" alt="banner-git-hever" border="0"></a>
+<a align="center"><img src="https://i.ibb.co/6NWWRc4/portadaaaa.jpg" alt="banner-git-hever" border="0"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
